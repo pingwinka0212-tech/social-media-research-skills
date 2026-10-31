@@ -6,7 +6,7 @@
     "name": "ScrapeCreators"
   },
   "homepage": "https://scrapecreators.com",
-  "repository": "https://github.com/ScrapeCreators/social-media-research-skills",
+  "repository": "https://github.com/pingwinka0212-tech/social-media-research-skills",
   "license": "MIT",
   "skills": "./skills"
 }
